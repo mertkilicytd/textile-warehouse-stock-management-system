@@ -4,6 +4,8 @@ A simple web-based warehouse stock management system for a textile company.
 
 The project is designed for the Applied SQL course milestone. Warehouse employees can log in, add products, manage product variants, update stock with entry/exit movements, and monitor low-stock product variants.
 
+Video Link: https://drive.google.com/file/d/17K6Pj_9K0w2cLW7UqGSvNxvm7xI_Xy_S/view?usp=drive_link
+
 ## Project Scope
 
 The system follows the database structure in the milestone report:
